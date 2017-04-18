@@ -1,0 +1,5 @@
+C:\Workspaces\URL Rewriting in ASP.NET\URLRewriter\bin\Debug\URLRewriter.dll
+C:\Workspaces\URL Rewriting in ASP.NET\URLRewriter\bin\Debug\URLRewriter.pdb
+C:\Workspaces\URL Rewriting in ASP.NET\URLRewriter\obj\Debug\URLRewriter.csprojResolveAssemblyReference.cache
+C:\Workspaces\URL Rewriting in ASP.NET\URLRewriter\obj\Debug\URLRewriter.dll
+C:\Workspaces\URL Rewriting in ASP.NET\URLRewriter\obj\Debug\URLRewriter.pdb
