@@ -1,6 +1,9 @@
 URL Rewriting Engine README
 ---------------------------
 
+Change:
+	2017-04-18 Upgrade Solution to Visual Studio 2015 and .NET 4.0
+
 The URLRewritingCode solution is a Visual Studio .NET 2003 Solution file with two projects:
 
 	-- ActionlessForm
